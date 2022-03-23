@@ -2,8 +2,8 @@ import { Component } from "@angular/core";
 
 @Component({
     selector: 'ola-angular',
-    templateUrl: './ola-angular.component.html',
-    styleUrls: ['./ola-angular.component.css'],
+    templateUrl: './ola-angular.components.html',
+    styleUrls: ['./ola-angular.components.css'],
 })
 export class OlaAngularComponent{
 
